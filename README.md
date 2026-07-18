@@ -6,7 +6,7 @@
 
 A fast, private, zero-dependency text colorizer with live previews and clean exports for **BBCode**, **HTML**, and **Unity Rich Text**.
 
-[Try It Live](https://your-demo-url.vercel.app) · [Report a Bug](https://github.com/YOUR_USERNAME/chromachar/issues) · [Request a Feature](https://github.com/YOUR_USERNAME/chromachar/issues)
+[Try It Live](https://v0-chromaflow.vercel.app/) · [Report a Bug](https://github.com/NirajShr3stha/prismatic-text/issues) · [Request a Feature](https://github.com/NirajShr3stha/prismatic-text/issues)
 
 </div>
 
